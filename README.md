@@ -1,2 +1,2 @@
-Estos reportes proporcionaran un resumen detallado de los resultados de las pruebas, incluyendo los errores encontrados, su gravedad y la cantidad de errores que se han corregido. 
+Estos reportes proporcionaran un resumen detallado de los resultados de las pruebas para Testing QA en sitios webs, incluyendo los errores encontrados, su gravedad y la cantidad de errores que se han corregido. 
 También se incluirá un análisis detallado de los resultados de las pruebas y las tendencias identificadas en los mismos, así como recomendaciones para mejorar la calidad de la página en términos de funcionalidad, usabilidad, rendimiento, seguridad y compatibilidad
